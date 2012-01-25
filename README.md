@@ -30,6 +30,10 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * Video games lead developer, 2000 - 2003 @ Doki Denki Studio
 * Video games developer, 1999 @ [Etranges Libellules](http://www.etranges-libellules.fr/)
 
+### Gods !
+
+Michael Jordan, Yuji Naka, Jason Fried, Noam Chomsky, George Clooney, Joel Spolsky, Platon, trappist monks...
+
 ### Contact
 
 * denis.roussel@gmail.com
