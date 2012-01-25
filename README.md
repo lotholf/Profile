@@ -11,7 +11,7 @@ I've been working on a great diversity of projects : I started off by developing
 
 ### Keywords
 
-`PHP` `MySql` `Symfony` `Git` `Bash` `JS` `CSS` `Linux`
+`PHP` `MySql` `Symfony` `Git` `Bash` `JS` `CSS` `Linux` `Hudson` `Behat`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
