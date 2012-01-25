@@ -41,3 +41,4 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * Instagram (username : *mandrille*)
 * [Team blog](http://team-fusion.pmsipilot.com)
 
+Feel free to [add an issue](https://github.com/KuiKui/Profile/issues) if you think something is missing ;-)
