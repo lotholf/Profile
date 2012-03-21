@@ -21,6 +21,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * [Crew](http://pmsipilot.github.com/Crew) : code review tool for Git projects,
 * [Baseboard](http://pmsipilot.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
 * [Gitboard](http://kuikui.github.com/Gitboard) : simple dashboard for a quick overview of Git projects.
+* [myTwitter](https://chrome.google.com/webstore/detail/blogaalpphinblmlnbeekgkckebgfpop) : Chrome extension  that improves readability of your Twitter web timeline.
 
 ### Employment
 
