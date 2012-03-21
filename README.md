@@ -33,16 +33,17 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Gods !
 
-Michael Jordan, Yuji Naka, Jason Fried, Noam Chomsky, George Clooney, Joel Spolsky, Platon, trappist monks...
+Michael Jordan, Yuji Naka, Jason Fried, Noam Chomsky, George Clooney, Joel Spolsky, Platon, DMB...
 
 ### Contact
 
 * denis.roussel@gmail.com
+* [Twitter](https://twitter.com/dondouny)
 * Kik (username : *dondouny*)
 
 ### Network
 
-* GitHub (username : [*KuiKui*](https://github.com/KuiKui))
+* [GitHub](https://github.com/KuiKui)
 * Instagram (username : *mandrille*)
 * [Team blog](http://team-fusion.pmsipilot.com)
 
