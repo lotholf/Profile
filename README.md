@@ -43,8 +43,8 @@ Michael Jordan, Yuji Naka, Jason Fried, Noam Chomsky, George Clooney, Joel Spols
 
 ### Network
 
+* [Blog](http://denisroussel.fr)
 * [GitHub](https://github.com/KuiKui)
 * Instagram (username : *mandrille*)
-* [Team blog](http://team-fusion.pmsipilot.com)
 
 Feel free to [add an issue](https://github.com/KuiKui/Profile/issues) if you think something is missing ;-)
