@@ -24,6 +24,11 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * [Gitboard](http://kuikui.github.com/Gitboard) : simple dashboard for a quick overview of Git projects.
 * [myTwitter](https://chrome.google.com/webstore/detail/blogaalpphinblmlnbeekgkckebgfpop) : Chrome extension  that improves readability of your Twitter web timeline.
 
+### Other projects
+
+* [Stickdown.me](http://stickdown.me) : unauthenticated online todo list.
+
+
 ### Employment
 
 * R&D team manager, 2009 - present time @ [PMSIpilot](http://www.pmsipilot.com)
