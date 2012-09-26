@@ -22,8 +22,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Tools
 
 * [Crew](http://crew-cr.org) : code review tool for Git projects,
-* [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects.
-* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
+* [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
+* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support.
 
 ##### Services
 
@@ -32,7 +32,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Chrome extension
 
-* [myTwitter](https://chrome.google.com/webstore/detail/blogaalpphinblmlnbeekgkckebgfpop) : Chrome extension  that improves readability of your Twitter web timeline.
+* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub,
+* [myTwitter](https://chrome.google.com/webstore/detail/blogaalpphinblmlnbeekgkckebgfpop) : Chrome extension that improves readability of your Twitter web timeline.
 
 ### Employment
 
