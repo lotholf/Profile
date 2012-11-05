@@ -13,10 +13,10 @@ I've been working on a great diversity of projects : I started off by developing
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
-### Service
+### Services
 
-* [Coconut CI](https://coconut-ci.com) : online continous integration service for PHP projects.
-* [Octoprogress](http://octoprogress.com) : see your GitHub projects progress in a glance.
+* [Coconut-ci.com](https://coconut-ci.com) : online continous integration service for PHP projects.
+* [Octoprogress.com](http://octoprogress.com) : see your GitHub projects progress in a glance.
 
 ### Open source side-projects
 
