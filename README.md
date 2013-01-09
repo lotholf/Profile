@@ -1,11 +1,10 @@
 I'm a developer since 1999, interested by :
 
 * software quality : VCSs, code review, testing, continuous integration,
-* productivity : agile methods, lean,
+* productivity : agile methods, lean management,
 * user centric design,
 
-I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Currently I'm working on medical softwares and their REST API.
-
+I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Lately, after working for a long time on medical softwares and their REST API at PMSIpilot, I was hired by a web agency in order to initiate a turn towards agile methods.
 
 ### Keywords
 
@@ -15,7 +14,6 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Services
 
-* [Coconut-ci.com](https://coconut-ci.com) : online continous integration service for PHP projects.
 * [Octoprogress.com](http://octoprogress.com) : see your GitHub projects progress in a glance.
 
 ### Open source side-projects
@@ -38,8 +36,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
-* Lead developer, present time @ [C2iS](http://www.c2is.fr)
-* R&D team manager, 2009 - 2012 @ [PMSIpilot](http://www.pmsipilot.com)
+* Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
+* R&D team manager, 2009 - 2011 @ [PMSIpilot](http://www.pmsipilot.com)
 * Web developer, 2005 - 2008 @ [C2iS](http://www.c2is.fr) & [LDLC.com](http://www.ldlc.com)
 * CTO and co-founder, 2004 @ [Point Cube](http://www.pointcube.fr)
 * Video games lead developer, 2000 - 2003 @ Doki Denki Studio
