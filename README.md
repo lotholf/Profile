@@ -10,13 +10,9 @@ I've been working on a great diversity of projects : I started off by developing
 
 ### Keywords
 
-`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `atoum` `Behat` `Scrum`
+`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `atoum` `Behat` `Scrum` `REST API`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
-
-### Services
-
-* [Octoprogress.com](http://octoprogress.com) : see your GitHub projects progress in a glance.
 
 ### Open source side-projects
 
@@ -26,6 +22,10 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
 * [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support.
 
+##### Lib
+
+* [MemcacheServiceProvider](https://github.com/KuiKui/MemcacheServiceProvider) : Memcache service provider for Silex.
+
 ##### Services
 
 * [Octoboard.com](http://octoboard.com) : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
@@ -33,8 +33,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Chrome extension
 
-* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub,
-* [myTwitter](https://chrome.google.com/webstore/detail/blogaalpphinblmlnbeekgkckebgfpop) : Chrome extension that improves readability of your Twitter web timeline.
+* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub.
 
 ### Employment
 
