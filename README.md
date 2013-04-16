@@ -37,6 +37,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
+* Lead developer, 2013 - Present @ [M6 Web](http://www.groupem6.fr/le-groupe/activites/diversifications/m6-web.html)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
 * R&D team manager, 2009 - 2011 @ [PMSIpilot](http://www.pmsipilot.com)
 * Web developer, 2005 - 2008 @ [C2iS](http://www.c2is.fr) & [LDLC.com](http://www.ldlc.com)
