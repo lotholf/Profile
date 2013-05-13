@@ -1,6 +1,6 @@
 ### Profile
 
-I'm a IT engineer since 2011, interested by :
+I'm an IT engineer since 2011, interested by :
 
 * development,
 * software quality : code review, testing, continuous integration,
