@@ -34,7 +34,7 @@ and during my studies : `C++` `Java` `SVN` `Bash`
 
 ##### Games
 
-* [Eat'em all](https://github.com/lotholf/Eat-them-All) : Web-browser game developped during [Game Dev Party #2](http://gamedevparty.fr/gdp2-eat-them-all/)
+* [Eat them all](https://github.com/lotholf/Eat-them-All) : Web-browser game developped during [Game Dev Party #2](http://gamedevparty.fr/gdp2-eat-them-all/)
 * [Kawaii Must Die](https://github.com/aurelien-defossez/trashKawaii) : Android game developped during [Game Dev Party #3](http://gamedevparty.fr/showcase-kawaii-must-die-%E3%82%BF%E3%83%A9%E3%82%B7%E3%82%A5-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84/)
 
 ### Contact
