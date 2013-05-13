@@ -41,5 +41,3 @@ and during my studies : `C++` `Java` `SVN` `Bash`
 
 * lavy.florent@gmail.com
 * [Twitter](https://twitter.com/lotholf)
-
-Feel free to [add an issue](https://github.com/lotholf/Profile/issues) if you think something is missing ;-)
