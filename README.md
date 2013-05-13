@@ -20,7 +20,7 @@ and during my studies : `C++` `Java` `SVN` `Bash`
 
 ### Employment
 
-* Software developper - in charge of Emergency department software (features development, client contact, maintenance), 2011 - 2012 @ [PMSIpilot](http://www.pmsipilot.com)
+* Software developper - in charge of Emergency department software, 2011 - 2012 @ [PMSIpilot](http://www.pmsipilot.com)
 * Internship (6 months) - Cartography module for medical data, 2011 @ [PMSIpilot](http://www.pmsipilot.com)
 * Internship (4 months) - Statistic module for Emergency department software, 2010 @ [PMSIpilot](http://www.pmsipilot.com)
 
